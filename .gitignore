@@ -1,0 +1,27 @@
+# Dossiers générés automatiquement par Unreal (recréés à l'ouverture du projet)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Dossier personnel de l'éditeur
+Content/Developers/
+
+# Fichiers de Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
